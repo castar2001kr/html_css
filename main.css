@@ -1,0 +1,84 @@
+
+
+
+#title{ margin: 50px;
+         font-size: 70px;
+         box-sizing: border-box;
+         float:left;
+         
+
+}
+
+#left_side{ 
+        border: solid black;
+        clear:left;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 800px;
+        height: 100%;
+        padding: 0px;
+
+        
+}
+
+#content{ 
+        border: solid black;
+       
+        display: flex;
+        flex-direction: row;
+        justify-content: left;
+        width: 800px;
+        height: 800px;
+        padding: 0px;
+
+        
+}
+
+.pp{
+        border: solid black;
+        display: float;
+        justify-content:first baseline;
+        width: 200px;
+        height: 100%;
+        padding: 0px;
+        margin:10px;
+
+}
+
+#memo{
+        border: solid black;
+        float:left;
+        display: float;
+        flex-direction: column;
+        justify-content:first baseline;
+        width: 700px;
+        height: 100%;
+        padding: 10px;
+        margin: 10px;
+        font-size: larger;
+        box-sizing: border-box;
+
+}
+
+#memo textarea{
+
+        border: solid black;
+        float:left;
+        display: float;
+        flex-direction: column;
+        justify-content:first baseline;
+        width: 100%;
+        height: 70%;
+        padding: 10px;
+        font-size: larger;
+        box-sizing: border-box;
+
+}
+
+input{margin:0px; height:23px;
+
+     
+
+       
+}
